@@ -14,3 +14,5 @@ Chromebook should be easier to type on and the Android app compatibility should 
 I need to work on more organized commit messages in git. 
 
 This works really well from my chromebook with a real keyboard. Quickedit is able to syntax highlight and save .py files
+
+The course is easy to read and understand. It might help to read first and then do the exercises.
